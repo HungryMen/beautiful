@@ -14,3 +14,8 @@ npm install
 npm start
 ~~~
 - 打开浏览器访问地址：`http://localhost:8888/`
+- 打包编译
+~~~
+npm run build
+~~~
+生成的文件在`dist`目录中
